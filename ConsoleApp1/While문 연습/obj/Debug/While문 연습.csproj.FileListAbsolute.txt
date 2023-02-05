@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\bin\Debug\While문 연습.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\bin\Debug\While문 연습.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\bin\Debug\While문 연습.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\obj\Debug\While문 연습.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\obj\Debug\While문 연습.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\While문 연습\obj\Debug\While문 연습.pdb

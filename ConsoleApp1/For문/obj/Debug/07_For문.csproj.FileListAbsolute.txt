@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\bin\Debug\For문.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\bin\Debug\For문.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\bin\Debug\For문.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\obj\Debug\07_For문.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\obj\Debug\For문.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\For문\obj\Debug\For문.pdb

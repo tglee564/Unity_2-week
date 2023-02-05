@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\obj\Debug\02_if_else if_else.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

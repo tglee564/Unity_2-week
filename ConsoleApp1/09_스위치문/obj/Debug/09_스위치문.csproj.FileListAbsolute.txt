@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\obj\Debug\09_스위치문.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\bin\Debug\09_스위치문.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\bin\Debug\09_스위치문.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\bin\Debug\09_스위치문.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\obj\Debug\09_스위치문.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\09_스위치문\obj\Debug\09_스위치문.pdb

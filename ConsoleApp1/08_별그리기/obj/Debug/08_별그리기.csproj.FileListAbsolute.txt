@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\obj\Debug\08_별그리기.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\bin\Debug\08_별그리기.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\bin\Debug\08_별그리기.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\bin\Debug\08_별그리기.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\obj\Debug\08_별그리기.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\08_별그리기\obj\Debug\08_별그리기.pdb

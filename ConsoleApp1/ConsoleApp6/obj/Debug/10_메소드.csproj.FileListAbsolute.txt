@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\obj\Debug\10_메소드.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\admin\Documents\유니티 2주차\2\ConsoleApp1\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
